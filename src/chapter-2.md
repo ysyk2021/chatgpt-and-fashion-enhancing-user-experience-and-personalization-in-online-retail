@@ -1,5 +1,3 @@
-Chapter 1: Basics of Fashion Industry
-=====================================
 
 The fashion industry is a dynamic and complex industry that encompasses the production, marketing, and distribution of clothing, accessories, and beauty products. In this chapter, we will explore the basics of the fashion industry, including its definition, different types of fashion businesses, and the importance of providing personalized user experiences for online shoppers.
 

@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Fashion Industry
-===================================================================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT in the fashion industry.
 

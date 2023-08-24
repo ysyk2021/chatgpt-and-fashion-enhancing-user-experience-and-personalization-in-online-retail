@@ -1,5 +1,3 @@
-Factors Affecting Fashion Industry
-=============================================================================
 
 The fashion industry is facing several challenges in the current digital landscape. In this chapter, we will explore the factors that are affecting the fashion industry and contributing to these challenges.
 

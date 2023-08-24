@@ -1,5 +1,3 @@
-Chapter 6: Future of Fashion Industry with ChatGPT
-==================================================
 
 In this chapter, we will explore the potential advancements in the fashion industry with ChatGPT, emerging trends and challenges in the fashion industry with ChatGPT, and conclude with a future outlook.
 

@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Fashion and ChatGPT
-=========================================================================================================
 
 In this chapter, we will explore the emerging trends and challenges in the fashion industry with ChatGPT.
 

@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-==================================================================================
 
 Artificial intelligence (AI) and chatbots have become integral parts of the fashion industry, providing new and innovative ways to enhance user experience and personalization in online retail. In this chapter, we will introduce the concepts of AI and chatbots and explore their roles in the fashion industry.
 

@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is a natural language processing model developed by OpenAI that can generate human-like responses to user inputs. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used to enhance user experience and personalization in online fashion retail.
 

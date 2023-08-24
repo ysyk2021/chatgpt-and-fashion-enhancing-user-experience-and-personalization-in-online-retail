@@ -1,5 +1,3 @@
-Potential Advancements in Fashion Industry with ChatGPT
-===========================================================================================================
 
 In this chapter, we will explore the potential advancements in the fashion industry with ChatGPT.
 

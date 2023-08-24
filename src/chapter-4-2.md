@@ -1,5 +1,3 @@
-How AI and Chatbots Can Improve User Experience and Personalization in Fashion Retail
-========================================================================================================================================
 
 Artificial intelligence (AI) and chatbots are becoming increasingly important in the fashion industry, as they can improve user experience and personalization in online retail. In this chapter, we will explore the role of AI and chatbots in fashion and how they can be used to enhance the customer experience.
 

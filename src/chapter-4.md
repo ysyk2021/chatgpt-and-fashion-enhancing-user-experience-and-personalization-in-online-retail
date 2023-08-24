@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Fashion
-=================================================
 
 AI and chatbots have become essential tools in the fashion industry, providing new and innovative ways to enhance user experience and personalization in online retail. In this chapter, we will introduce the concepts of AI and chatbots, explore how they can improve user experience and personalization in fashion retail, and outline the benefits of using AI and chatbots in the fashion industry.
 

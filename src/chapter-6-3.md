@@ -1,5 +1,3 @@
-Case Studies of Fashion Retailers That Have Successfully Implemented ChatGPT in Their Online Stores
-========================================================================================================================================================
 
 In this chapter, we will examine case studies of fashion retailers that have successfully implemented ChatGPT in their online stores.
 

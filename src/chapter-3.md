@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Fashion Industry
-=========================================
 
 The fashion industry is facing numerous challenges in the current digital landscape, which are impacting user experience and personalization. In this chapter, we will explore the factors affecting the fashion industry, common challenges faced by fashion retailers, and the impact of these challenges on user experience and personalization.
 

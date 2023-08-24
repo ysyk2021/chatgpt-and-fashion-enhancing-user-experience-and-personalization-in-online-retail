@@ -1,5 +1,3 @@
-How ChatGPT can be used for enhancing user experience and personalization in online fashion retail
-====================================================================================================================================
 
 ChatGPT is a cutting-edge AI technology that uses deep learning to understand natural language and generate human-like responses. It can analyze vast amounts of data and provide personalized recommendations and virtual styling assistance to users, enhancing the overall shopping experience.
 
