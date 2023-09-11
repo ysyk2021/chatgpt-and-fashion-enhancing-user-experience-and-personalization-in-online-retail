@@ -1,5 +1,4 @@
-Chapter: Definition of the Fashion Industry
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The fashion industry is a dynamic and ever-evolving sector that encompasses the creation, production, marketing, and distribution of clothing, accessories, footwear, and related products. It plays a significant role in shaping personal style, cultural expression, and global trends. This chapter delves into the definition of the fashion industry, highlighting its various components and stakeholders.
 

@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in Fashion Industry
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the necessary steps to implement ChatGPT in the fashion industry. By following these steps, online retailers can leverage AI technology to enhance user experience and personalization in their online stores.
 

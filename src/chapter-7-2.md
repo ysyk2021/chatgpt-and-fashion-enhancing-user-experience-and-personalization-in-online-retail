@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Fashion and ChatGPT
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and challenges in the fashion industry concerning the integration of ChatGPT. While ChatGPT offers exciting possibilities for enhancing user experience and personalization in online retail, it also presents unique challenges that need to be addressed.
 

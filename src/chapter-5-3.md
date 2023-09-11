@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Enhance User Experience and Personalization in Online Fashion Retail
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by advanced AI technology, has revolutionized the online fashion retail industry by providing new opportunities for enhancing user experience and personalization. In this chapter, we will explore how ChatGPT can be leveraged to create engaging and tailored experiences for online shoppers.
 

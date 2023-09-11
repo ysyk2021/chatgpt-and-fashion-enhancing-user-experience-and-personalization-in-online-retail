@@ -1,5 +1,4 @@
-Chapter: Case Studies of Fashion Retailers Implementing ChatGPT
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of fashion retailers who have successfully implemented ChatGPT to enhance user experience and personalization in their online stores. These examples highlight the practical applications and benefits of integrating ChatGPT into the online retail ecosystem.
 

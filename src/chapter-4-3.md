@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots for the Fashion Industry
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI and chatbot technologies have revolutionized the fashion industry, providing numerous benefits to online retailers. In this chapter, we will explore the advantages of utilizing AI and chatbots in the fashion industry, highlighting how they enhance user experience and personalization in online retail.
 

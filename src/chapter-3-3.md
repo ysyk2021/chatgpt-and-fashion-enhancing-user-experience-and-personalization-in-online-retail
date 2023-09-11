@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on User Experience and Personalization
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the impact of the challenges discussed in the previous chapter on user experience and personalization in the fashion industry when integrating ChatGPT.
 

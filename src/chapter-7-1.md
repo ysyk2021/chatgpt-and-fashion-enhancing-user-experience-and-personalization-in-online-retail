@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Fashion Industry with ChatGPT
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that ChatGPT can bring to the fashion industry. By leveraging the capabilities of ChatGPT, online retail platforms can enhance user experience, drive personalization, and revolutionize various aspects of the fashion industry.
 

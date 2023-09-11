@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by advanced AI technology, offers a wide range of features and capabilities that have transformed the online retail industry. In this chapter, we will explore the key functionalities and strengths of ChatGPT in enhancing user experience and personalization.
 

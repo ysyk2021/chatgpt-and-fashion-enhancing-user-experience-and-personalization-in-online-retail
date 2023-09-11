@@ -1,5 +1,4 @@
-Chapter: Factors Affecting the Fashion Industry
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that significantly impact the fashion industry, shaping user experience and personalization when integrating ChatGPT.
 

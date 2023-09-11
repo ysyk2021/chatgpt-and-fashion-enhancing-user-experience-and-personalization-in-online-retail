@@ -1,5 +1,4 @@
-Chapter: Different Types of Fashion Businesses
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The fashion industry encompasses a diverse range of businesses, each with its unique characteristics, goals, and challenges. This chapter provides an overview of the different types of fashion businesses, their main features, and how they interact with customers.
 

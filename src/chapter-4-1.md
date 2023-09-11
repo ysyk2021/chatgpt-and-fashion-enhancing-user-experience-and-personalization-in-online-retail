@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to Artificial Intelligence (AI) and chatbots in the context of enhancing user experience and personalization in the fashion industry. We will explore the concepts, benefits, and applications of AI and chatbots, and how they can revolutionize the online retail sector.
 

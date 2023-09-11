@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Enhancing User Experience and Personalization
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for using ChatGPT to enhance user experience and personalization in the fashion industry. By following these practices, online retailers can leverage ChatGPT to deliver more engaging and personalized experiences to their users.
 
